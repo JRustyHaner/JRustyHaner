@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JRustyHaner
 - 👀 I’m interested in social issues, travel, swimming, role playing games
-- 🌱 I’m currently learning how to fly jumbo jets
+- 🌱 I’m currently studying Psychology
 - 💞️ I’m looking to collaborate on interesting conversations
-- 📫 How to reach me by email at rustyhaner@gmail.com
+- 📫 How to reach me by email at jrhaner@memphis.edu
 
 <!---
 JRustyHaner/JRustyHaner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
