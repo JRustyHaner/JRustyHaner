@@ -37,6 +37,7 @@ Public memphis-iis repositories with commits under my GitHub username, JRustyHan
 ## Featured personal work
 - [ThesisServer](https://github.com/JRustyHaner/ThesisServer): Markov chain prediction system from my 2019 MLA thesis, "Pre-LLM Markov Table AI Prediction System," which received the University of Memphis Dan Lattimore Award for Most Innovative Thesis.
 - **Psynaptix** (private, plugin tree public at [psynaptix-plugins](https://github.com/JRustyHaner/psynaptix-plugins)): A standalone multisignal measurement service that records and synchronizes real-time learner signals, including EEG from Muse headsets, mouse tracking, behavioral events and external data sources, into timestamp-aligned research exports, built for IRB and HIPAA-ready work.
+- **[Chorls](https://chorls.app)** (code private): A music library and performance management app, built with Expo React Native and an Express API.
 
 ## Links
 Website: https://rustyhaner.com
