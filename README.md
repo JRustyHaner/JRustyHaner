@@ -19,6 +19,13 @@ Public memphis-iis repositories with commits under my GitHub username, JRustyHan
 - [lac_unga_dashboard_react](https://github.com/memphis-iis/lac_unga_dashboard_react): React dashboard for UN General Assembly (UNGA) speech data.
 - [glyphwitch](https://github.com/memphis-iis/glyphwitch): Language Across Cultures tools for comparing glyphs and phonemes in documents.
 
+### Private IIS projects (code not public)
+
+- **Undertaker Mobile:** A cross-platform Expo and React Native app for iOS, Android and the web that maps gravestone locations, with search and filters.
+- **Bluekey:** A single sign-on and software key service for IIS apps, built on Node.js, Express and PostgreSQL, with device sign-in for CLI and desktop tools and error reporting.
+- **Vellum Rift:** A collaborative platform for exploring manuscripts on the web, Meta Quest and SteamVR, with real-time chat, spatial voice, pins and shared drawing.
+- **CohMetrixCore:** A .NET 6 desktop version of Coh-Metrix, the text analysis tool, for Windows and Linux.
+
 ### Earlier IIS work
 - [cohmetrix-issues](https://github.com/memphis-iis/cohmetrix-issues): Public issues and distribution repository for Coh-Metrix Core Desktop, a linguistic analysis tool for cohesion and readability.
 - [mofacts-docker](https://github.com/memphis-iis/mofacts-docker): Docker Compose deployment of MoFaCTS (mini and full stacks).
